@@ -1,0 +1,4 @@
+name: BungeeCordSystem
+main: de.superlandnetwork.bungeecord.system.Main
+version: 2.0.0
+author: ursinn
