@@ -23,7 +23,7 @@ public enum BanEnum {
 	DAY("Tag(e)", 86400, "day"),
 	WEEK("Woche(n)", 604800, "week"),
 	MONTH("Monat(e)", 1814400, "month"),
-	YEAHR("Jahr(e)", 29030400, "yeahr");
+	YEAHR("Jahr(e)", 29030400, "year");
 	
 	private String name;
 	private long toSecounde;
